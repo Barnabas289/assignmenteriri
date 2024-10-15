@@ -1,0 +1,9 @@
+table h{
+    color:white;
+    background:blue;
+}
+.thead,{
+    border-style:ridge;
+    border-width: 50px;
+    border-color:black;
+}
